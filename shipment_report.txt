@@ -1,0 +1,10 @@
+Shipment Report
+-----------------
+Total Shipments: 21
+
+Shipments by Status:
+- In Transit: 9
+- Pending: 5
+- Delivered: 7
+
+Average Shipment Weight: 320.71

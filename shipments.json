@@ -1,0 +1,23 @@
+[
+  {"shipment_id":"S100","origin":"Jenin","destination":"Hebron","weight":320,"status":"Delivered"},
+  {"shipment_id":"S101","origin":"Jenin","destination":"Ramallah","weight":180,"status":"In Transit"},
+  {"shipment_id":"S102","origin":"Nablus","destination":"Bethlehem","weight":450,"status":"Pending"},
+  {"shipment_id":"S103","origin":"Hebron","destination":"Jenin","weight":290,"status":"Delivered"},
+  {"shipment_id":"S104","origin":"Ramallah","destination":"Nablus","weight":210,"status":"In Transit"},
+  {"shipment_id":"S105","origin":"Bethlehem","destination":"Hebron","weight":500,"status":"Pending"},
+  {"shipment_id":"S106","origin":"Jenin","destination":"Tulkarm","weight":160,"status":"Delivered"},
+  {"shipment_id":"S107","origin":"Tulkarm","destination":"Qalqilya","weight":190,"status":"In Transit"},
+  {"shipment_id":"S108","origin":"Qalqilya","destination":"Jenin","weight":340,"status":"Pending"},
+  {"shipment_id":"S109","origin":"Nablus","destination":"Jenin","weight":275,"status":"Delivered"},
+  {"shipment_id":"S110","origin":"Hebron","destination":"Ramallah","weight":220,"status":"In Transit"},
+  {"shipment_id":"S111","origin":"Ramallah","destination":"Bethlehem","weight":480,"status":"Pending"},
+  {"shipment_id":"S112","origin":"Jenin","destination":"Nablus","weight":300,"status":"Delivered"},
+  {"shipment_id":"S113","origin":"Nablus","destination":"Tulkarm","weight":260,"status":"In Transit"},
+  {"shipment_id":"S114","origin":"Tulkarm","destination":"Hebron","weight":520,"status":"Pending"},
+  {"shipment_id":"S115","origin":"Qalqilya","destination":"Ramallah","weight":310,"status":"Delivered"},
+  {"shipment_id":"S116","origin":"Ramallah","destination":"Jenin","weight":200,"status":"In Transit"},
+  {"shipment_id":"S117","origin":"Bethlehem","destination":"Nablus","weight":460,"status":"Pending"},
+  {"shipment_id":"S118","origin":"Jenin","destination":"Hebron","weight":350,"status":"Delivered"},
+  {"shipment_id":"S119","origin":"Hebron","destination":"Tulkarm","weight":230,"status":"In Transit"},
+  {"shipment_id":"S120","origin":"Nablus","destination":"Bethlehem","weight":490,"status":"Pending"}
+]

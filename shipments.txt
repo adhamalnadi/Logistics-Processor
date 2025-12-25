@@ -1,0 +1,22 @@
+S100,Jenin,Hebron,320,In Transit
+S101,Jenin,Ramallah,180,In Transit
+S102,Nablus,Bethlehem,450,Pending
+S103,Hebron,Jenin,290,Delivered
+S104,Ramallah,Nablus,210,In Transit
+S105,Bethlehem,Hebron,500,Pending
+S106,Jenin,Tulkarm,160,Delivered
+S107,Tulkarm,Qalqilya,190,In Transit
+S108,Qalqilya,Jenin,340,In Transit
+S109,Nablus,Jenin,275,Delivered
+S110,Hebron,Ramallah,220,In Transit
+S111,Ramallah,Bethlehem,480,Pending
+S112,Jenin,Nablus,300,Delivered
+S113,Nablus,Tulkarm,260,In Transit
+S114,Tulkarm,Hebron,520,Pending
+S115,Qalqilya,Ramallah,310,Delivered
+S116,Ramallah,Jenin,200,In Transit
+S117,Bethlehem,Nablus,460,Delivered
+S118,Jenin,Hebron,350,Delivered
+S119,Hebron,Tulkarm,230,In Transit
+S120,Nablus,Bethlehem,490,Pending
+
