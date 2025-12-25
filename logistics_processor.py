@@ -1,7 +1,5 @@
 """
  Name: Adham Alnadi
- ID: 201811041
- 
  Course: Python Programming
  Assignment: Logistics Data Processor
 
